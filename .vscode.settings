@@ -22,7 +22,6 @@
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "typescript.preferences.importModuleSpecifier": "relative",
-    "workbench.sideBar.location": "right",
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
@@ -40,25 +39,19 @@
     "[handlebars]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.fontFamily": "Hasklig-Light, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "monospace",
     "terminal.integrated.fontFamily": "monospace",
     "explorer.confirmPasteNative": false,
-    "chat.commandCenter.enabled": false,
-    "workbench.activityBar.location": "hidden",
-    "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": false,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
-    "material-icon-theme.hidesExplorerArrows": true,
-    "workbench.tree.enableStickyScroll": false,
-    "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 8,
     "explorer.compactFolders": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "window.customTitleBarVisibility": "never",
-    "window.titleBarStyle": "native",
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
 }
